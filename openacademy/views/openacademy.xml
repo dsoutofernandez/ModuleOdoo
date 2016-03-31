@@ -28,6 +28,7 @@
             </field>
         </record>
 
+
           <!-- override the automatically generated list view for courses -->
         <record model="ir.ui.view" id="course_tree_view">
             <field name="name">course.tree</field>
