@@ -7,11 +7,11 @@
         subtitle on modules listing or apps.openerp.com""",
 
     'description': """
-        Un tutorial larguito para SXE...
+        Long description of module's purpose
     """,
 
-    'author': "Daniel",
-    'website': "http://www.danielcastelao.com",
+    'author': "My Company",
+    'website': "http://www.yourcompany.com",
 
     # Categories can be used to filter modules in modules listing
     # Check https://github.com/odoo/odoo/blob/master/openerp/addons/base/module/module_data.xml
@@ -29,7 +29,6 @@
         'views/templates.xml',
         'views/openacademy.xml',
         'views/partner.xml',
-        'views/session_workflow.xml',
     ],
     # only loaded in demonstration mode
     'demo': [
